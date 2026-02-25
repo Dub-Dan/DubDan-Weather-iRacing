@@ -53,3 +53,10 @@ Quick summary:
 Contributions, feedback, and issue reports welcome!
 
 Happy racing — stay dry (or know when you won't be). 🏎️☔
+
+
+## Buy me a coffee ☕
+
+If this overlay improves your racing, consider a donation!
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/ncp/payment/LB8RZDNH6ZXD8)
