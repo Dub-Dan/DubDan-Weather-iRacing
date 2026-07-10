@@ -34,8 +34,11 @@ Here are examples of the overlay in different conditions;
 <img width="273" height="337" alt="Preview-1" src="https://github.com/user-attachments/assets/f0b591a0-7287-4be5-827a-924f6369eb6d" />
 
 ## Installation
+Click the green 'Code' button
+<img width="176" height="76" alt="image" src="https://github.com/user-attachments/assets/1ed657a3-5298-4761-8748-98e1b14b1e0f" />
+Download the zip file
+<img width="172" height="50" alt="image" src="https://github.com/user-attachments/assets/7996544e-9a76-4f4e-a3d1-98b6096de0b1" />
 
-See the dedicated installation instructions in the repository (or README_install.md if you split it).
 
 Quick summary:
 1. Place `WindArrow.png` in `C:\Program Files (x86)\SimHub\ImageLibrary\Icons\`
